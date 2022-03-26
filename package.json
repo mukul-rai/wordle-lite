@@ -2,7 +2,7 @@
   "name": "wordle-lite",
   "version": "1.0.0",
   "description": "",
-  "main": "public/static/bundle/script.js",
+  "main": "./public/static/bundle/script.js",
   "scripts": {
     "start": "webpack --watch",
     "build": "webpack",
